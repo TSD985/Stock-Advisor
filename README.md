@@ -46,7 +46,5 @@ By developing **Stock Advisor Agent**, you’ll learn to:
 - Perform **dynamic web searches and data extraction** through automation.  
 - Implement **rule-based decision-making** with UiPath Agents.  
 - Deliver **contextual AI-driven recommendations** to end users.  
----
 
-⭐ *If this project inspires you or helps in your RPA learning journey, don’t forget to star it!*
 
